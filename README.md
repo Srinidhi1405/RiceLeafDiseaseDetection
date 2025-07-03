@@ -5,9 +5,9 @@ This project aims to automate the detection and classification of common rice le
 
 🎯 Objectives
 
-- 🔬 Detect and classify rice leaf diseases using a CNN-based model.
-- 📊 Evaluate model performance using accuracy, precision, recall, F1-score.
-- 🖼️ Work with real-world image data from UCI repository/Kaggle.
+- Detect and classify rice leaf diseases using a CNN-based model.
+- Evaluate model performance using accuracy, precision, recall, F1-score.
+- Work with real-world image data from UCI repository/Kaggle.
 
 🧠 Technologies Used
 
