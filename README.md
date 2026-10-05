@@ -23,6 +23,3 @@ Future Work
 - Expand dataset with more classes and images.
 - Deploy on edge devices (Raspberry Pi or Jetson Nano).
 - Build web/mobile interface for farmers.
-
-👨‍💻 Author
-**Srinidhi Thirukandalam Kidambi**
